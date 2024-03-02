@@ -55,11 +55,11 @@ export default function GxpTrainig() {
           <div className="row g-5 align-items-center">
             <div className="col-lg-5 wow fadeIn" data-wow-delay="0.1s">
               <div className="abouts" data-aos="fade-right" >
-                <img className="img-fluid" src="/ebmr2.jpg" />
+                <img className="img-fluid" src="https://img.freepik.com/free-photo/new-test-concentrated-skilled-researchers-wearing-uniform-doing-test-creating-vaccine_1157-48116.jpg?size=626&ext=jpg&ga=GA1.1.1884802103.1674757283&semt=sph" />
               </div>
             </div>
             <div className="col-lg-7 wow fadeIn" data-wow-delay="0.5s">
-              <h4 className="mb-4 " data-aos="fade-left">At Mediva, science is embedded in our ethos, as we wholeheartedly embrace Research and Development (R&D) as an essential component of our sustainable business strategy. Over the decades, we have invested strongly and strategically in cutting-edge technological advancements and innovative research activities.</h4>
+              <h4 className="mb-4 " data-aos="fade-left">InnoCare Pharmaceuticals’ Research & Development is dedicated to pushing the boundaries of medical science. Our team of innovators is shaping the future of healthcare through pioneering drug discovery and development. Join us as we explore new frontiers, driven by our passion for making a difference in patients’ lives</h4>
               {/* <div className="content_container"> */}
                 {/* <ul className="list-group"
                   ref={(ref) => listRefs.current.push(ref)}
@@ -101,7 +101,7 @@ export default function GxpTrainig() {
             </div>
             <div className="col-lg-3 wow fadeIn" data-wow-delay="0.1s">
             <div className="h-75 w-75 " data-aos="fade-right" >
-                <img className="img-fluid  rounded" src="/ebmr2.jpg" />
+                <img className="img-fluid  rounded" src="https://img.freepik.com/free-photo/new-test-concentrated-skilled-researchers-wearing-uniform-doing-test-creating-vaccine_1157-48116.jpg?size=626&ext=jpg&ga=GA1.1.1884802103.1674757283&semt=sph" />
               </div>
             </div>
           </div>
